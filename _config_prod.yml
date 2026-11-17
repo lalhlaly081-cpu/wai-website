@@ -1,3 +1,5 @@
 baseurl: "/WAI" # the subpath of your site, e.g. /blog
 url: "https://www.w3.org" # the base hostname & protocol for your site
+published: truebaseurl: "/WAI" # the subpath of your site, e.g. /blog
+url: "https://www.w3.org" # the base hostname & protocol for your site
 published: true
